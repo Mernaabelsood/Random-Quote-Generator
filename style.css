@@ -1,0 +1,16 @@
+.h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+}
+
+.content{
+    text-align: center;
+    font-size: xx-large;
+    
+}
+
+button{
+    width: 15%;
+    padding: 20px;
+    background-color: blue;
+}
